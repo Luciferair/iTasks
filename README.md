@@ -42,4 +42,4 @@ This project uses Vite as the build tool for fast and optimized development, and
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the [MIT License.](url)
+This project is licensed under the [MIT License.](LICENSE)
